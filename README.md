@@ -15,7 +15,7 @@ they will place their battleships. The program receives player input on where on
 opponent's board to attack. Switches back and forth between Player 1 & 2. Ships of each
 get hits on them until one player has all their ships sunk, and then the other player wins.
 
-![System diagram](https://drive.google.com/file/d/1diMA3eQ6LK8udZ0b1-gf6rnloReDk_jq/view?usp=sharing)
+![System diagram](diagram2.png)
 
 ## Tech Stack
 
