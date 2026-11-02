@@ -38,7 +38,7 @@ wins by having the opponent's 5 ships sunk.
 - [ ] Implementation of how attacks would work (hits & misses), and how they determine
 whether an opponent's ships has sunk.
 
-![Eisenhower Matrix](https://drive.google.com/file/d/1uORQT1XmAN8cARRtkWJC3UGR5YANbu-d/view?usp=drive_link)
+![Eisenhower Matrix](eisenhower.png)
 
 ## Author
 
